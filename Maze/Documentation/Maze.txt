@@ -1,0 +1,3 @@
+It's difficult to define exactly 'what a Game is ?'. From PaperRockScissor to the Fortnite, games 
+
+A MAZE is a Virtual Reality version of the traditional path finding maze game on paper. 
